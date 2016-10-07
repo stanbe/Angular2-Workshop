@@ -1,6 +1,8 @@
 # Angular2-Workshop
 Angular2 sample application with ASP.NET Core
 
+Open in Visual Studio 2015 Update 3, install TypeScript 2.0
+
 #Currently for local development without backend
 
 1. npm install -g json-server
