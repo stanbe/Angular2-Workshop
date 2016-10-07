@@ -1,0 +1,60 @@
+{
+  "receipts": [
+    {
+      "id": 2,
+      "date": "2016-10-14",
+      "price": 25,
+      "comment": "Dorn to Errie",
+      "name": "Prince",
+      "reason": "Hotel"
+    },
+    {
+      "id": 3,
+      "date": "2016-10-14",
+      "price": 25000,
+      "comment": "Workshop on Tatooine",
+      "name": "Luke Skywalker",
+      "reason": "Taxi"
+    },
+    {
+      "id": 4,
+      "date": "2016-10-14",
+      "price": 20,
+      "comment": "Fight behing the wall",
+      "name": "Ed Stark",
+      "reason": "Various"
+    },
+    {
+      "id": 5,
+      "date": "2016-10-14",
+      "price": 100,
+      "comment": "Visit at the Jedi temple",
+      "name": "Anakin Skywalker",
+      "reason": "Hotel"
+    },
+    {
+      "id": 6,
+      "date": "2016-10-14",
+      "price": 250,
+      "comment": "Visit in the star destroyer",
+      "name": "Obiwan Kenobi",
+      "reason": "Planeticket"
+    },
+    {
+      "id": 7,
+      "date": "2016-10-14",
+      "price": 50,
+      "comment": "Workshop at the Caltech",
+      "name": "Sheldon Cooper",
+      "reason": "Trainticket"
+    },
+    {
+      "id": 8,
+      "date": "2016-10-14",
+      "price": 123,
+      "comment": "Romantic weekend with Penny",
+      "name": "Leonard Hofstadder",
+      "reason": "Hotel"
+    }
+  ]
+}
